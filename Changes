@@ -1,5 +1,6 @@
 NEXT:
     * Allow alternative concurrency models/drivers
+    * Add hooks for event initialization
 
 1.301001_107:
     * Fix broken threading/forking on win32 introduced in _106
